@@ -2,5 +2,7 @@
   "name": "이 물건의 정체는?",
   "description": "물건의 일부분을 보고 전체를 추리하는 초등학생 맞춤 1~6학년 단계별 100문제 돋보기 추리 퀴즈 게임",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
